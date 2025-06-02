@@ -1,0 +1,3 @@
+/Users/gabrielatab/CLionProjects/timer/cmake-build-debug/CMakeFiles/timer.dir
+/Users/gabrielatab/CLionProjects/timer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gabrielatab/CLionProjects/timer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

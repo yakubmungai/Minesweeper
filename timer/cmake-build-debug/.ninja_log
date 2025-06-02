@@ -1,0 +1,8 @@
+# ninja log v5
+1790	2124	1701135510865691354	minesweeper_tester	fc7a90b53e2ebf8e
+1	1790	1701135510515954772	CMakeFiles/minesweeper_tester.dir/main.cpp.o	5043bad6e2b3366d
+0	1782	1701135510515120530	CMakeFiles/minesweeper_tester.dir/TextureManager.cpp.o	b45e25e6f077c5fa
+8	288	1701136588404097522	build.ninja	f32a63ac2f2b4c9e
+1	1407	1701136591895564373	CMakeFiles/timer.dir/TextureManager.cpp.o	e0297760fb9d9704
+0	1414	1701136591898046290	CMakeFiles/timer.dir/main.cpp.o	5fff596849cdb96c
+1414	1756	1701136592251338374	timer	7120a6101fb18d19
